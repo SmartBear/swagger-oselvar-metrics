@@ -1,1 +1,6 @@
-airbnb/visx
+swagger-api/swagger-editor
+swagger-api/swagger-ui
+swagger-api/swagger-codegen
+swagger-api/swagger-core
+swagger-api/swagger-js
+swagger-api/swagger-parser
