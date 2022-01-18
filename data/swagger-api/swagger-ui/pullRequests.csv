@@ -2914,11 +2914,11 @@ PR_kwDOAB9fHc4upc99,https://github.com/swagger-api/swagger-ui/pull/7657,2021-11-
 PR_kwDOAB9fHc4utVmK,https://github.com/swagger-api/swagger-ui/pull/7659,2021-11-18T11:16:31Z,2021-11-18T11:16:32Z,,2021-11-18T11:22:36Z
 PR_kwDOAB9fHc4utVuZ,https://github.com/swagger-api/swagger-ui/pull/7660,2021-11-18T11:17:08Z,2021-11-18T11:17:09Z,,2021-11-18T11:31:17Z
 PR_kwDOAB9fHc4utV3W,https://github.com/swagger-api/swagger-ui/pull/7661,2021-11-18T11:17:47Z,2021-11-18T11:17:48Z,,2021-11-24T13:30:20Z
-PR_kwDOAB9fHc4uxCre,https://github.com/swagger-api/swagger-ui/pull/7662,2021-11-19T11:18:08Z,2021-11-19T11:18:09Z,,
+PR_kwDOAB9fHc4uxCre,https://github.com/swagger-api/swagger-ui/pull/7662,2021-11-19T11:18:08Z,2021-11-19T11:18:09Z,2022-01-18T21:12:52Z,2022-01-18T21:12:50Z
 PR_kwDOAB9fHc4uxC6d,https://github.com/swagger-api/swagger-ui/pull/7663,2021-11-19T11:19:20Z,2021-11-19T11:19:22Z,,2021-11-19T11:25:18Z
 PR_kwDOAB9fHc4uxEMb,https://github.com/swagger-api/swagger-ui/pull/7664,2021-11-19T11:26:20Z,2021-11-19T11:26:21Z,,2021-11-24T13:36:36Z
 PR_kwDOAB9fHc4u9308,https://github.com/swagger-api/swagger-ui/pull/7669,2021-11-24T13:48:14Z,2021-11-24T13:48:43Z,,2021-11-24T13:55Z
-PR_kwDOAB9fHc4u9-ws,https://github.com/swagger-api/swagger-ui/pull/7670,2021-11-24T14:19:31Z,2021-11-24T14:19:47Z,,
+PR_kwDOAB9fHc4u9-ws,https://github.com/swagger-api/swagger-ui/pull/7670,2021-11-24T14:19:31Z,2021-11-24T14:19:47Z,,2022-01-18T21:12:50Z
 PR_kwDOAB9fHc4u-V_Y,https://github.com/swagger-api/swagger-ui/pull/7671,2021-11-24T15:58:39Z,2021-11-24T15:59:07Z,,2021-11-25T12:47:22Z
 PR_kwDOAB9fHc4vA0Ps,https://github.com/swagger-api/swagger-ui/pull/7675,2021-11-25T11:15:15Z,2021-11-25T11:15:16Z,2021-11-25T12:49:40Z,2021-11-25T12:49:38Z
 PR_kwDOAB9fHc4vA0XP,https://github.com/swagger-api/swagger-ui/pull/7676,2021-11-25T11:15:46Z,2021-11-25T11:15:47Z,2021-11-25T12:50:22Z,2021-11-25T12:50:20Z
@@ -2941,7 +2941,7 @@ PR_kwDOAB9fHc4v2vKc,https://github.com/swagger-api/swagger-ui/pull/7705,2021-12-
 PR_kwDOAB9fHc4v8Yp6,https://github.com/swagger-api/swagger-ui/pull/7708,2021-12-16T11:41:11Z,2021-12-16T11:41:12Z,2021-12-22T11:28:35Z,2021-12-22T11:28:35Z
 PR_kwDOAB9fHc4v-2Ih,https://github.com/swagger-api/swagger-ui/pull/7712,2021-12-17T03:09:14Z,,2022-01-12T22:19:15Z,
 PR_kwDOAB9fHc4wAAAd,https://github.com/swagger-api/swagger-ui/pull/7713,2021-12-17T11:58:54Z,,2021-12-20T22:41:31Z,2022-01-05T16:18:01Z
-PR_kwDOAB9fHc4wLej3,https://github.com/swagger-api/swagger-ui/pull/7716,2021-12-22T11:28:31Z,2021-12-22T11:28:32Z,,
+PR_kwDOAB9fHc4wLej3,https://github.com/swagger-api/swagger-ui/pull/7716,2021-12-22T11:28:31Z,2021-12-22T11:28:32Z,2022-01-18T20:53:22Z,2022-01-18T20:53:24Z
 PR_kwDOAB9fHc4wL9ka,https://github.com/swagger-api/swagger-ui/pull/7717,2021-12-22T14:28:10Z,2022-01-10T09:51:09Z,2022-01-12T22:01:08Z,2022-01-12T21:59:51Z
 PR_kwDOAB9fHc4wPsdM,https://github.com/swagger-api/swagger-ui/pull/7719,2021-12-23T22:02:14Z,,,
 PR_kwDOAB9fHc4wdnQh,https://github.com/swagger-api/swagger-ui/pull/7731,2022-01-03T11:12:52Z,2022-01-03T11:12:54Z,,2022-01-03T11:19:06Z
@@ -2959,4 +2959,7 @@ PR_kwDOAB9fHc4xKAtU,https://github.com/swagger-api/swagger-ui/pull/7759,2022-01-
 PR_kwDOAB9fHc4xKD_p,https://github.com/swagger-api/swagger-ui/pull/7760,2022-01-17T15:40:20Z,2022-01-17T15:40:21Z,,
 PR_kwDOAB9fHc4xKLv0,https://github.com/swagger-api/swagger-ui/pull/7761,2022-01-17T16:16:54Z,2022-01-17T16:17:37Z,,
 PR_kwDOAB9fHc4xOXfe,https://github.com/swagger-api/swagger-ui/pull/7763,2022-01-18T20:26:10Z,,,2022-01-18T20:33:10Z
-PR_kwDOAB9fHc4xOa0K,https://github.com/swagger-api/swagger-ui/pull/7764,2022-01-18T20:46:17Z,,,
+PR_kwDOAB9fHc4xOa0K,https://github.com/swagger-api/swagger-ui/pull/7764,2022-01-18T20:46:17Z,,,2022-01-18T20:52:31Z
+PR_kwDOAB9fHc4xOb95,https://github.com/swagger-api/swagger-ui/pull/7765,2022-01-18T20:53:49Z,2022-01-18T20:53:50Z,,2022-01-18T21:20:54Z
+PR_kwDOAB9fHc4xOfNx,https://github.com/swagger-api/swagger-ui/pull/7766,2022-01-18T21:13:57Z,2022-01-18T21:13:59Z,2022-01-18T21:28:28Z,
+PR_kwDOAB9fHc4xOgYP,https://github.com/swagger-api/swagger-ui/pull/7767,2022-01-18T21:21:17Z,2022-01-18T21:21:18Z,,
