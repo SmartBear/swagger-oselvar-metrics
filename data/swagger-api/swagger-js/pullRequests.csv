@@ -913,7 +913,7 @@ MDExOlB1bGxSZXF1ZXN0NDQ2NjE5MzI0,https://github.com/swagger-api/swagger-js/pull/
 MDExOlB1bGxSZXF1ZXN0NDQ4MDg3MTUy,https://github.com/swagger-api/swagger-js/pull/1637,2020-07-13T08:23:13Z,2020-07-13T08:23:13Z,,2020-07-13T08:41:52Z
 MDExOlB1bGxSZXF1ZXN0NDQ4NjQ1Nzc1,https://github.com/swagger-api/swagger-js/pull/1638,2020-07-14T05:04:27Z,2020-07-14T05:04:28Z,,2020-07-14T13:00:41Z
 MDExOlB1bGxSZXF1ZXN0NDQ4NjQ2MTI2,https://github.com/swagger-api/swagger-js/pull/1639,2020-07-14T05:05:35Z,2020-07-14T05:05:36Z,2020-07-14T13:01:03Z,2020-07-14T14:25:21Z
-MDExOlB1bGxSZXF1ZXN0NDQ4NjU5Nzcz,https://github.com/swagger-api/swagger-js/pull/1640,2020-07-14T05:47:01Z,2020-07-14T13:21:37Z,,2020-07-17T07:39:54Z
+MDExOlB1bGxSZXF1ZXN0NDQ4NjU5Nzcz,https://github.com/swagger-api/swagger-js/pull/1640,2020-07-14T05:47:01Z,2020-07-14T13:21:37Z,2022-08-03T19:03:43Z,2020-07-17T07:39:54Z
 MDExOlB1bGxSZXF1ZXN0NDQ5MjQ1MjE0,https://github.com/swagger-api/swagger-js/pull/1641,2020-07-15T05:02:32Z,2020-07-15T05:02:34Z,2020-07-15T09:17:02Z,2020-07-20T07:22:29Z
 MDExOlB1bGxSZXF1ZXN0NDQ5MjQ1NDA1,https://github.com/swagger-api/swagger-js/pull/1642,2020-07-15T05:03:15Z,2020-07-15T05:03:16Z,2020-07-15T15:32:14Z,2020-07-20T07:22:29Z
 MDExOlB1bGxSZXF1ZXN0NDQ5MjQ1NTYy,https://github.com/swagger-api/swagger-js/pull/1643,2020-07-15T05:03:51Z,2020-07-15T05:03:52Z,2020-07-17T07:35:48Z,2020-07-20T07:22:29Z
@@ -1798,9 +1798,11 @@ PR_kwDOADS4Xs47nNKC,https://github.com/swagger-api/swagger-js/pull/2610,2022-07-
 PR_kwDOADS4Xs47nNPA,https://github.com/swagger-api/swagger-js/pull/2611,2022-07-18T23:04:24Z,2022-07-18T23:04:25Z,,2022-07-18T23:16:21Z
 PR_kwDOADS4Xs47r4w4,https://github.com/swagger-api/swagger-js/pull/2612,2022-07-19T23:01:23Z,2022-07-19T23:01:24Z,,2022-07-19T23:05:44Z
 PR_kwDOADS4Xs48EsNL,https://github.com/swagger-api/swagger-js/pull/2615,2022-07-25T23:01:34Z,2022-07-25T23:01:35Z,,2022-07-25T23:05:43Z
-PR_kwDOADS4Xs48dxcY,https://github.com/swagger-api/swagger-js/pull/2616,2022-08-01T23:01:28Z,2022-08-01T23:01:29Z,2022-08-01T23:02:59Z,
-PR_kwDOADS4Xs48dxiY,https://github.com/swagger-api/swagger-js/pull/2617,2022-08-01T23:01:53Z,2022-08-01T23:01:55Z,2022-08-01T23:02:51Z,
-PR_kwDOADS4Xs48dxnz,https://github.com/swagger-api/swagger-js/pull/2618,2022-08-01T23:02:20Z,2022-08-01T23:02:21Z,2022-08-01T23:03:39Z,
+PR_kwDOADS4Xs48dxcY,https://github.com/swagger-api/swagger-js/pull/2616,2022-08-01T23:01:28Z,2022-08-01T23:01:29Z,2022-08-01T23:02:59Z,2022-08-03T19:06:15Z
+PR_kwDOADS4Xs48dxiY,https://github.com/swagger-api/swagger-js/pull/2617,2022-08-01T23:01:53Z,2022-08-01T23:01:55Z,2022-08-01T23:02:51Z,2022-08-03T19:22:43Z
+PR_kwDOADS4Xs48dxnz,https://github.com/swagger-api/swagger-js/pull/2618,2022-08-01T23:02:20Z,2022-08-01T23:02:21Z,2022-08-01T23:03:39Z,2022-08-03T19:06:15Z
 PR_kwDOADS4Xs48dxuK,https://github.com/swagger-api/swagger-js/pull/2619,2022-08-01T23:02:48Z,2022-08-01T23:02:49Z,,2022-08-01T23:06:32Z
 PR_kwDOADS4Xs48dxzo,https://github.com/swagger-api/swagger-js/pull/2620,2022-08-01T23:03:12Z,2022-08-01T23:03:13Z,,2022-08-01T23:11:44Z
 PR_kwDOADS4Xs48mNX6,https://github.com/swagger-api/swagger-js/pull/2621,2022-08-03T17:59:16Z,2022-08-03T17:59:17Z,,2022-08-03T18:02:25Z
+PR_kwDOADS4Xs48mZ-g,https://github.com/swagger-api/swagger-js/pull/2622,2022-08-03T19:02:43Z,2022-08-03T19:05:31Z,,2022-08-03T19:06:14Z
+PR_kwDOADS4Xs48meER,https://github.com/swagger-api/swagger-js/pull/2623,2022-08-03T19:17:54Z,2022-08-03T19:18:10Z,,2022-08-03T19:22:42Z
