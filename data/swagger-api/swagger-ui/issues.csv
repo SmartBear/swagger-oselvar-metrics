@@ -5126,7 +5126,7 @@ I_kwDOAB9fHc5noK2B,https://github.com/swagger-api/swagger-ui/issues/8879,2023-06
 I_kwDOAB9fHc5noMCb,https://github.com/swagger-api/swagger-ui/issues/8880,2023-06-02T17:56:02Z,,,
 I_kwDOAB9fHc5noNeE,https://github.com/swagger-api/swagger-ui/issues/8881,2023-06-02T18:00:31Z,2023-08-16T15:06:07Z,2023-08-16T15:07:07Z,2023-08-16T15:06:52Z
 I_kwDOAB9fHc5oDaLK,https://github.com/swagger-api/swagger-ui/issues/8892,2023-06-07T11:53:21Z,,,
-I_kwDOAB9fHc5oHPqM,https://github.com/swagger-api/swagger-ui/issues/8895,2023-06-07T21:45:53Z,,2023-06-09T12:43:07Z,
+I_kwDOAB9fHc5oHPqM,https://github.com/swagger-api/swagger-ui/issues/8895,2023-06-07T21:45:53Z,2023-11-13T12:33:37Z,2023-06-09T12:43:07Z,2023-11-13T12:33:29Z
 I_kwDOAB9fHc5oQIb-,https://github.com/swagger-api/swagger-ui/issues/8902,2023-06-09T03:43:34Z,2023-08-22T12:07:44Z,2023-08-22T12:09:18Z,2023-08-22T12:09:18Z
 I_kwDOAB9fHc5oZq1R,https://github.com/swagger-api/swagger-ui/issues/8913,2023-06-11T18:50:38Z,2023-06-11T18:51:16Z,,
 I_kwDOAB9fHc5oZyiR,https://github.com/swagger-api/swagger-ui/issues/8915,2023-06-11T20:22:55Z,2023-06-11T20:24Z,,2023-06-12T21:20:49Z
@@ -5163,7 +5163,7 @@ I_kwDOAB9fHc5rfkYj,https://github.com/swagger-api/swagger-ui/issues/9017,2023-07
 I_kwDOAB9fHc5rr4Hq,https://github.com/swagger-api/swagger-ui/issues/9022,2023-07-16T17:44:41Z,2023-07-17T12:06:14Z,2023-07-24T07:45:12Z,2023-07-24T08:04:01Z
 I_kwDOAB9fHc5sF9nO,https://github.com/swagger-api/swagger-ui/issues/9045,2023-07-20T08:56:40Z,,2023-08-24T02:44:23Z,
 I_kwDOAB9fHc5sJ-je,https://github.com/swagger-api/swagger-ui/issues/9048,2023-07-20T18:16:46Z,,2023-08-05T11:15:14Z,
-I_kwDOAB9fHc5sLBCy,https://github.com/swagger-api/swagger-ui/issues/9049,2023-07-20T21:32:59Z,,,
+I_kwDOAB9fHc5sLBCy,https://github.com/swagger-api/swagger-ui/issues/9049,2023-07-20T21:32:59Z,,2023-11-13T12:27:36Z,
 I_kwDOAB9fHc5sY7HI,https://github.com/swagger-api/swagger-ui/issues/9055,2023-07-24T13:50:28Z,,2023-08-17T12:15:02Z,2023-08-17T12:44:21Z
 I_kwDOAB9fHc5sbCbm,https://github.com/swagger-api/swagger-ui/issues/9056,2023-07-24T19:43:56Z,,,
 I_kwDOAB9fHc5scCTd,https://github.com/swagger-api/swagger-ui/issues/9057,2023-07-24T23:25:50Z,,,
@@ -5226,7 +5226,7 @@ I_kwDOAB9fHc5zW3WF,https://github.com/swagger-api/swagger-ui/issues/9296,2023-10
 I_kwDOAB9fHc5zhDLM,https://github.com/swagger-api/swagger-ui/issues/9298,2023-10-11T15:07:35Z,2023-11-09T12:55:36Z,2023-11-09T12:58:35Z,2023-11-09T13:48:18Z
 I_kwDOAB9fHc5zk5GV,https://github.com/swagger-api/swagger-ui/issues/9300,2023-10-12T02:14:45Z,,,
 I_kwDOAB9fHc5zqAm3,https://github.com/swagger-api/swagger-ui/issues/9304,2023-10-12T16:47:06Z,2023-10-17T11:43:10Z,2023-10-14T13:37:52Z,2023-10-17T12:13:26Z
-I_kwDOAB9fHc5zqQf_,https://github.com/swagger-api/swagger-ui/issues/9305,2023-10-12T17:25:15Z,,,
+I_kwDOAB9fHc5zqQf_,https://github.com/swagger-api/swagger-ui/issues/9305,2023-10-12T17:25:15Z,2023-11-13T11:53:21Z,2023-11-13T11:58:17Z,2023-11-13T11:58:17Z
 I_kwDOAB9fHc5zsdCl,https://github.com/swagger-api/swagger-ui/issues/9307,2023-10-13T00:44:37Z,,2023-10-13T00:47:17Z,
 I_kwDOAB9fHc5zttKC,https://github.com/swagger-api/swagger-ui/issues/9308,2023-10-13T06:59:45Z,,,
 I_kwDOAB9fHc5zymTG,https://github.com/swagger-api/swagger-ui/issues/9313,2023-10-13T21:08:04Z,,,
@@ -5237,10 +5237,12 @@ I_kwDOAB9fHc51AsUp,https://github.com/swagger-api/swagger-ui/issues/9337,2023-10
 I_kwDOAB9fHc51A3f7,https://github.com/swagger-api/swagger-ui/issues/9338,2023-10-26T10:04:51Z,,,
 I_kwDOAB9fHc51BmhC,https://github.com/swagger-api/swagger-ui/issues/9342,2023-10-26T11:45:57Z,2023-11-03T13:46:03Z,2023-11-03T13:47:06Z,2023-11-03T13:47:06Z
 I_kwDOAB9fHc51mU03,https://github.com/swagger-api/swagger-ui/issues/9353,2023-11-01T19:36:49Z,2023-11-09T12:53:29Z,2023-11-01T19:50:41Z,2023-11-09T12:54:11Z
-I_kwDOAB9fHc51vsBp,https://github.com/swagger-api/swagger-ui/issues/9355,2023-11-03T04:23:27Z,,,
+I_kwDOAB9fHc51vsBp,https://github.com/swagger-api/swagger-ui/issues/9355,2023-11-03T04:23:27Z,2023-11-13T12:38:36Z,2023-11-13T12:39:16Z,2023-11-13T12:39:16Z
 I_kwDOAB9fHc514dSZ,https://github.com/swagger-api/swagger-ui/issues/9356,2023-11-05T10:54:16Z,,2023-11-05T10:56:54Z,
 I_kwDOAB9fHc517l0N,https://github.com/swagger-api/swagger-ui/issues/9357,2023-11-06T08:20:13Z,,,
 I_kwDOAB9fHc52DBXb,https://github.com/swagger-api/swagger-ui/issues/9362,2023-11-07T04:08:46Z,,,
 I_kwDOAB9fHc52GvUt,https://github.com/swagger-api/swagger-ui/issues/9363,2023-11-07T14:20:03Z,,,
 I_kwDOAB9fHc52SMmT,https://github.com/swagger-api/swagger-ui/issues/9365,2023-11-08T22:15:11Z,,,
 I_kwDOAB9fHc52Szv6,https://github.com/swagger-api/swagger-ui/issues/9366,2023-11-09T01:06:23Z,,,
+I_kwDOAB9fHc52pe9p,https://github.com/swagger-api/swagger-ui/issues/9376,2023-11-13T12:41:20Z,2023-11-13T12:41:36Z,,
+I_kwDOAB9fHc52pgCa,https://github.com/swagger-api/swagger-ui/issues/9377,2023-11-13T12:44:06Z,2023-11-13T12:44:17Z,,
